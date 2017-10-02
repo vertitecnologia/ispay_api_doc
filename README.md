@@ -46,6 +46,6 @@ A documentação é gerada em HTML a partir dos arquivos .rst (reStructuredText)
 
 4. Abrir o arquivo `build/html/index.html` no browser de sua preferência. Se estiver tudo ok, commitar e dar push para este repositório. A documentação será automaticamente gerada e disponibilizada no Read The Docs.
 
-### Onde ler a documentação da API do VMPay
+### Onde ler a documentação da API do ISpay
 
 A documentação em formato legível está [aqui](http://ispay-api.readthedocs.io/en/latest/).
