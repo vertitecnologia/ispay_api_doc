@@ -24,11 +24,11 @@ Gerenciamento de tokens
 =======================
 
 * O usuário administrador do provedor pode gerar, revogar e listar quando um token foi utilizado
-pela última vez para realizar uma operação.
+  pela última vez para realizar uma operação.
 * Esse gerenciamento é feito através da página de gerenciamento no website da ISpay na qual 
-que somente o administradores do provedor terão acesso.
+  que somente o administradores do provedor terão acesso.
 * É possível ver o valor do token somente quando ele é gerado por 10 minutos, após isso o usuário
-administrador deve copiar seu valor para utilizá-lo em futuras operações.
+  administrador deve copiar seu valor para utilizá-lo em futuras operações.
 
 
 Exemplo de requisição válida
